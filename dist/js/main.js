@@ -1,5 +1,6 @@
 var bob;
 
 bob = function() {
-  return console.log("this is awesome");
+  console.log("this is awesome");
+  return console.log("yup");
 };
